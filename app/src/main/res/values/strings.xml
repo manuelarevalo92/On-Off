@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">On/Off</string>
+    <string name="intervalo">Intervalo de tiempo</string>
+
+    <string name="tiempo">Unidades</string>
+
+    <string name="iniciar">Iniciar</string>
+    <string name="detener">Detener</string>
+
+    <string name="minutos">Minutos</string>
+    <string name="segundos">Segundos</string>
+    <string-array name="unidades">
+        <item>@string/segundos</item>
+        <item>@string/minutos</item>
+    </string-array>
+</resources>
